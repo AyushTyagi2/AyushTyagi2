@@ -7,12 +7,6 @@ I'm a Computer Science student interested in building scalable software systems,
 
 I enjoy working at the intersection of **Backend Engineering, Distributed Systems, High-Performance Computing, and Applied AI**.
 
-- 🔭 Working on distributed computing and MPI performance modelling.
-- 💻 Building backend systems and AI-powered applications.
-- 🧠 Exploring parallel computing, performance optimization, and machine learning.
-- 🌱 Learning more about scalable architectures and systems engineering.
-- 💼 Incoming Software Development Engineer at Expedia Group.
-
 ## 🚀 Featured Projects
 
 ### 1. OpsAlert
