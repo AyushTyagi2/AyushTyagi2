@@ -45,11 +45,18 @@ Machine learning project focused on medical image analysis and aneurysm detectio
 
 ## 📊 GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AyushTyagi2&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AyushTyagi2&layout=compact&theme=github_dark&hide_border=true)
+## 📊 GitHub Statistics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AyushTyagi2&theme=github-dark-blue&hide_border=true)
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=AyushTyagi2&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AyushTyagi2&layout=compact&theme=github_dark&hide_border=true" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=AyushTyagi2&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+</p>
+
 
 ---
 
